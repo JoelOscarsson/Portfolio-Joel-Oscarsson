@@ -1,6 +1,6 @@
 ![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/cv_timeline.png)
 
-# Kokchun Giang :man_teacher:
+# Joel Oscarsson :man_teacher:
 
 I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 

@@ -1,5 +1,3 @@
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/cv_timeline.png)
-
 # Joel Oscarsson
 
 I am an aspiring student who strive to learn as much as possible about AI and Machine learning. To do this i have started my educational journey at the school IT-Högskolan in Gothenburg. 

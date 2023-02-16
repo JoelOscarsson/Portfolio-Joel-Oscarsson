@@ -1,6 +1,4 @@
-Yooooo
-
-# Joel Oscarsson :computer:
+# Joel Oscarsson :keyboard:
 
 ![Banner](banner.png)
 
@@ -12,7 +10,7 @@ I have previously worked at Volvo as an Operator and decided that after many goo
 ## :briefcase: Portfolio:
 | Repositories                   | Description                        | Course                    |
 | ------------------------------ | ---------------------------------- | ------------------------- |
-|[Machine Learning Program][mla] | Classifying types with ML algorithm          | Python Programming |
+|[Machine Learning Program][mla] | Pichu or Pikachu classifier with k-nearest neighbor           | Python Programming |
 |[Geometry Shapes Class][gs]     | Used OOP to create a well-structured program | Python Programming |
 |[Covid-19 Dataframe Plotting][c]| Visualizing Covid-19 data                    | Data Processing | 
 |[Olympics Dashboard][pr]        | Interactive dashboard about Olympics metrics | Data Processing |                                   
